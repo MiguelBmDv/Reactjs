@@ -1,0 +1,17 @@
+.mensajetext{
+    color: rgb(0, 137, 250);
+    font-size: 15px;
+    text-shadow: black 1px 1px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    margin-left:100px ;
+}
